@@ -1,6 +1,6 @@
 # ############ Package Scripts ##############
 set(CPACK_PACKAGE_NAME "${PROJECT_NAME}")
-set(CPACK_PACKAGE_VENDOR "ValveWizard Inc.")
+set(CPACK_PACKAGE_VENDOR "ApplicationName Inc.")
 
 set(CPACK_GENERATOR "IFW") # IFW is Qt installation framework
 

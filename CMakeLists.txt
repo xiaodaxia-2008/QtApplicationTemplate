@@ -15,7 +15,7 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 set(CMAKE_INSTALL_DEFAULT_COMPONENT_NAME Default)
 
-project(ValveWizard VERSION 0.0.1 DESCRIPTION "Instroduction about ValveWizard")
+project(ApplicationName VERSION 0.0.1 DESCRIPTION "Instroduction about ApplicationName")
 
 find_package(Qt6 CONFIG REQUIRED COMPONENTS Widgets UiTools LinguistTools)
 find_package(spdlog CONFIG REQUIRED)
