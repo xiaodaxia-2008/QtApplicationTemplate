@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=ApplicationName
+Type=Application
+Exec=ApplicationExecutable
+Icon=/usr/share/icons/WindowIcon.svg
+Comment=Application Introduction
+Terminal=false
+Categories=Development
